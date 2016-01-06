@@ -14,6 +14,203 @@
     
     <item>
       <title></title>
+      <link>http://jurgen-kluft.github.io/resumes/resume-cn/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/resumes/resume-cn/</guid>
+      <description>
+
+&lt;h3 id=&#34;技术总监-高级软件工程师:c6d61757840b74c7e40514562fe1f30b&#34;&gt;技术总监, 高级软件工程师&lt;/h3&gt;
+
+&lt;p&gt;自我评价
+经验丰富、注重工作成果，拥有20年工作经验，即能适应专业成熟环境又能适应新启动环境的软件工程师。
+具有将项目需求转化成高成本效益、安全和有效的方案，并能兼顾产品的可扩展性、投资回报率和耐用性。
+能对智能解决方案、系统和应用程序进行创新，以推动系统基础架构和产品的重大改进。
+拥有10年管理经验的领队人和技术管理人员，不仅精于推动系统体系结构相关的决策，且善于带领一个项目从初始阶段直至完成。
+具有全面的软件开发实践操作经验，包括从构建、编程、重构到代码审查、分析/优化和调试，并对这些工作充满激情。&lt;/p&gt;
+
+&lt;p&gt;10多年在中国工作的经历使我拥有丰富的带领和管理由中国和其他国家技术人员组成的技术团队的经验。
+扎根中国10多年，懂得中国国情和文化，深度了解如何在中国的大环境下不断挖掘一个团队的潜力、提高效力和质量。&lt;/p&gt;
+
+&lt;p&gt;具有丰富的培训和指导初级、高级及领对程序员的经验，使他们通过学会正确的编程方法和了解最佳实践来提高工作效率和质量。&lt;/p&gt;
+
+&lt;h2 id=&#34;个人信息:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;个人信息&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;性别: 男&lt;br /&gt;
+中文名字：珂悦涵&lt;br /&gt;
+国籍: 荷兰&lt;br /&gt;
+出生年月: 1971年6月19日&lt;br /&gt;
+居住地：中国上海 /持有中国永久居住证&lt;br /&gt;
+家庭住址：上海市伊犁南路34弄3号1506室&lt;br /&gt;
+手机: 18621753701 / 18616793279&lt;br /&gt;
+住宅电话: 021-24281061&lt;br /&gt;
+邮箱地址：&lt;a href=&#34;mailto:jurgen.kluft@gmail.com&#34;&gt;email me&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;主要技术领域:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;主要技术领域&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;语言/程序:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C/C++, C# (.NET 2.0 to 4.6)&lt;/li&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;li&gt;LUA&lt;/li&gt;
+&lt;li&gt;Assembler for  MC680x0, DSP560x0, Zilog and PIC micro controllers&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;系统:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Windows XP/NT v4.0/7/8&lt;/li&gt;
+&lt;li&gt;PSP/PS2/PS3/PS4&lt;/li&gt;
+&lt;li&gt;Xbox-360 / Xbox-One&lt;/li&gt;
+&lt;li&gt;Nintendo DS/WII&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;加密&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SHA-1, SHA-3 (Keccak)&lt;/li&gt;
+&lt;li&gt;Skein&lt;/li&gt;
+&lt;li&gt;Merkle-Tree&lt;/li&gt;
+&lt;li&gt;Block-Chain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;网络:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TCP/IP, UDP&lt;/li&gt;
+&lt;li&gt;Protocols; packet/messaging custom protocols, pub-sub, req-rep&lt;/li&gt;
+&lt;li&gt;P2P; DHT (Chord, Kademlia, Symphony), BitTorrent protocol, ZeroMQ.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;数据:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;工作经验:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;工作经验&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;上海市维塔士电脑软件有限公司-中国-上海:c6d61757840b74c7e40514562fe1f30b&#34;&gt;上海市维塔士电脑软件有限公司 – 中国，上海&lt;/h3&gt;
+
+&lt;h4 id=&#34;技术总监-2005年至今:c6d61757840b74c7e40514562fe1f30b&#34;&gt;技术总监， 2005年至今&lt;/h4&gt;
+
+&lt;p&gt;运用C/C++, C#语言及相关工具来开发、维护、支持用于各类项目、各类控制台和手机平台的工具和系统。&lt;/p&gt;
+
+&lt;p&gt;分析系统测试和调试代码，创建测试用于查找、隔离和纠正问题，创建和使用查找性能和内存问题的工具，为优化和降低内存使用情况创建解决方案。&lt;/p&gt;
+
+&lt;p&gt;管理一个由8到30工程师组成的技术团队。&lt;/p&gt;
+
+&lt;p&gt;成果:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;重新构筑了多个推动改善生产率、效率、反应能力和可维护性的系统。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;通过开发代码、系统设计和测试为很多技术问题找到了解决方案，并使用的工具和脚本部署更新。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;领导、构建和参与了一个数据构建工作流、多个跨平台工具、以及各类内存和分析组建的设计、测试和开发。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;开发了模块化、便携式、线程安全且超高性能的基础和应用程序的基础架构库。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;培训和指导初级、高级以及首席程序员编程的方法和最佳实践。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;开发完成了在不同项目中均能高效使用的自动化和数据转换工具组。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;开发完成了一个大型二进制数据管理系统，该系统对mercurial-hg (一个分布式版本控制系统) 进行了加强， 使其效率、可用性和可扩展性提高了十倍。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;制定标准确保每个项目遵循连续集成流程以对代码和数据的更改进行确认。之后又进一步优化为应用程序版本的自动测试、报告生成及发布。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;引进并致力于将Scrum应用到公司的的项目管理，即在项目中以敏捷方法（agile methods）取代了适用于小型项目的 “瀑布心态”。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;参与并改进了公司对软件工程师相关各级职位的面试和招聘工作，对面试和招聘来自中国及国外的员工具有丰富的经验。协助人事部门起草招聘职位的要求和职责。通过对历史聘用数据的分析来提高招聘的效率。帮助人事部起草了用来测试应聘人员技术水平的测试试卷。&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;guerrilla-games-荷兰-阿姆斯特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;GUERRILLA GAMES –荷兰，阿姆斯特丹&lt;/h3&gt;
+
+&lt;h4 id=&#34;高级-首席软件程序工程师-2000年-至-2005年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;高级/首席软件程序工程师,  2000年 至 2005年&lt;/h4&gt;
+
+&lt;p&gt;带领开发团队完成编程任务包括对产品和工具的功能增强、维护和支持。项目编程任务,包括增强功能、维护和支持的产品和工具。 设计创建软件系统,进行详细分析及处理复杂编程以满足项目要求。&lt;/p&gt;
+
+&lt;p&gt;成果:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;带领开发团队致力于解决流程自动化、数据转换和效果增强等各种任务。以简洁和自动化的解决方案替换了容易出错的手动流程。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;设计和研发了可配置的、可扩展的支持性工具，用于支持数据转换框架。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;设计和研发了一项高级粒子模拟系统，该系统实现了重复使用内存，以避免频繁的内存分配并减少内存占用。&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ict-group-信息和通讯技术集团-荷兰-鹿特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;ICT GROUP 信息和通讯技术集团– 荷兰，鹿特丹&lt;/h3&gt;
+
+&lt;h4 id=&#34;软件工程师-1998年3月至2000年12月:c6d61757840b74c7e40514562fe1f30b&#34;&gt;软件工程师，1998年3月至2000年12月&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;同8名专业软件工程师组成团共同研发了一个由硬件和软件构成的公共汽车交通系统。接受了公司提供的有关管理、沟通和科技方面的培训。&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;lostboys-interactive-荷兰-阿姆斯特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;LOSTBOYS INTERACTIVE – 荷兰，阿姆斯特丹&lt;/h3&gt;
+
+&lt;h4 id=&#34;多媒体软件程序工程师-1996年至1998年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;多媒体软件程序工程师, 1996年至1998年&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;负责与多媒体相关的2D和3D应用程序的编程工作。善于优化代码性能及将用于系统测试和调试的各种支持系统进行标准化&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;pannekeet工业机械公司-荷兰-阿尔克马尔:c6d61757840b74c7e40514562fe1f30b&#34;&gt;PANNEKEET工业机械公司– 荷兰，阿尔克马尔&lt;/h3&gt;
+
+&lt;h4 id=&#34;plc-软件工程师-1995-年至1996年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;PLC 软件工程师, 1995 年至1996年&lt;/h4&gt;
+
+&lt;p&gt;•   为机器的自动化软件提供支持，使用传感器和执行器来控制机器的流程和操作。 创新性地将FSM方法使用到该工作的软件开发过程中，通过添加调试信息和完整的状态及转化信息，极大地改进了调试性能，为工程师乃至是用户提供了便利。&lt;/p&gt;
+
+&lt;h2 id=&#34;教育和资格证书:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;教育和资格证书&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;荷兰阿尔克马尔应用科学大学&lt;br /&gt;
+电子工程专业本科，1990年至 1994&lt;br /&gt;
+测量与系统控制专业&lt;/p&gt;
+
+&lt;p&gt;资质证书：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SCRUM Alliance, SCRUM Master, 2008&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;近期培训:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C++11 Programming Concepts&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;C++ Programming Concepts, Design and Implementation&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Workshop in Object-Oriented Analysis and Design&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;部分参与项目列表:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;部分参与项目列表&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UNANNOUNCED (PS4) (2015-Now)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;UNANNOUNCED (PS4, Xbox One, PC, Unreal Engine 3 &amp;amp; 4) (2013-Now)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Fable Anniversary” (360, Unreal Engine 3) (2012-2013)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“xcore foundation libraries and cross-platform tools” (2011-2012)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Generator Rex: Agent of Province” (PS3, Xbox 360, Wii, 3DS, NDS) (2010-2011)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“MonsterJam: Path of Destruction” (PS3, 360, Wii, PSP, NDS) (2009-2010)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Motorstorm: Artic Edge” PS2 (Sony) (2008-2009)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Pimp My Ride” PS2 (Activision) (2007-2008)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“SpeedRacer” NDS (Warner Bros) (2007)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;NDS game “Asphalt: Urban GT 2” (2006)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PSP game “StreetRiders” (2005)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS3 game “Killzone 2” (2004 – 2005)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS2 game “Killzone” (2001 – 2004)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS2 game “Knights” (1999 - 2001)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Automated bus system (1998-1999)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Star child 3D (1997 – 1998) (Programmer II)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Media Presentation Software (1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Educational Software (Shockwave) (1996-1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The Lost Ride (CDI) (1996) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;语言能力:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;语言能力&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;荷兰语&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;英语&lt;/li&gt;
+&lt;li&gt;汉语&lt;/li&gt;
+&lt;li&gt;德语&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://jurgen-kluft.github.io/resumes/resume-en/</link>
       <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
@@ -52,7 +249,7 @@ Email: &lt;a href=&#34;mailto:jurgen.kluft@gmail.com&#34;&gt;email me&lt;/a&gt;&
 &lt;li&gt;Golang&lt;/li&gt;
 &lt;li&gt;LUA&lt;/li&gt;
 &lt;li&gt;Assembler for  MC680x0, DSP560x0, Zilog and PIC micro controllers&lt;/li&gt;
-&lt;li&gt;Python.&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Systems&lt;/strong&gt;:&lt;/p&gt;
@@ -169,7 +366,38 @@ Graduated in Measurement and Control Systems&lt;/p&gt;
 &lt;li&gt;Workshop in Object-Oriented Analysis and Design&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;projects:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UNANNOUNCED (PS4) (2015-Now)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;UNANNOUNCED (PS4, Xbox One, PC, Unreal Engine 3 &amp;amp; 4) (2013-Now)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Fable Anniversary” (360, Unreal Engine 3) (2012-2013)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“xcore foundation libraries and cross-platform tools” (2011-2012)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Generator Rex: Agent of Province” (PS3, Xbox 360, Wii, 3DS, NDS) (2010-2011)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“MonsterJam: Path of Destruction” (PS3, 360, Wii, PSP, NDS) (2009-2010)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Motorstorm: Artic Edge” PS2 (Sony) (2008-2009)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“Pimp My Ride” PS2 (Activision) (2007-2008)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;“SpeedRacer” NDS (Warner Bros) (2007)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;NDS game “Asphalt: Urban GT 2” (2006)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PSP game “StreetRiders” (2005)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS3 game “Killzone 2” (2004 – 2005)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS2 game “Killzone” (2001 – 2004)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PS2 game “Knights” (1999 - 2001)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Automated bus system (1998-1999)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Star child 3D (1997 – 1998) (Programmer II)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Media Presentation Software (1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Educational Software (Shockwave) (1996-1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The Lost Ride (CDI) (1996) (Programmer I)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;language-skills:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;Language Skills&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dutch (Native)&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;Chinese (Intermediate)&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
