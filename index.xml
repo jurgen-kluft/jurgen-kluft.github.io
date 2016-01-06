@@ -39,7 +39,7 @@
                 &lt;div class=&#34;text-center col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6&#34;&gt;
                   &lt;div class=&#34;&#34;&gt;
                     &lt;h2&gt; &lt;span itemprop=&#34;name&#34;&gt;Jurgen Kluft&lt;/span&gt;&lt;/h2&gt;
-                    &lt;p itemprop=&#34;jobTitle&#34;&gt;Developer&lt;/p&gt;
+                    &lt;p itemprop=&#34;jobTitle&#34;&gt;Technical Director&lt;/p&gt;
                     &lt;p&gt;
                       &lt;i class=&#34;fa fa-map-marker&#34;&gt;&lt;/i&gt; &lt;span itemprop=&#34;addressRegion&#34;&gt;Shanghai, China&lt;/span&gt;
                     &lt;/p&gt;
@@ -49,8 +49,8 @@
               &lt;/div&gt;
             &lt;/div&gt;
               &lt;div class=&#34;col-lg-12 centered-text&#34;&gt;
-                I am a Java developer working with a major Bank in Sydney. In the past I have workded with various financial institutions.
-                I am passionate about Technology. Apart from Java I have special interest in web technologies, high performance computing.
+                I am a Technical Director working at a major game company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam).
+                I am passionate about Technology. Apart from C++/C# I have special interest in p2p technologies, high performance and embedded systems.
               &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -109,32 +109,12 @@
     
     <item>
       <title></title>
-      <link>http://jurgen-kluft.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/about/</guid>
-      <description>&lt;p&gt;&amp;copy; 2016 Jurgen Kluft&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://jurgen-kluft.github.io</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io</guid>
       <description>&lt;p&gt;XCode is a set of basic modular C++ libraries to assist in the rapid development of
 C++ applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jurgen-kluft.github.io/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/license/</guid>
-      <description>&lt;p&gt;&amp;copy; 2016 Jurgen Kluft&lt;/p&gt;
 </description>
     </item>
     
