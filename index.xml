@@ -9,8 +9,20 @@
     <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
     <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
     <copyright>(c) 2016 Jurgen</copyright>
-    <lastBuildDate>Wed, 06 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://jurgen-kluft.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advent of Code using Golang</title>
+      <link>http://jurgen-kluft.github.io/2017/12/20/advent-of-code-using-golang/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/2017/12/20/advent-of-code-using-golang/</guid>
+      <description>&lt;p&gt;Finished the first 20 days of &lt;a href=&#34;http://www.adventofcode.com&#34;&gt;Advent-of-Code&lt;/a&gt; using Go-lang.&lt;/p&gt;
+
+&lt;p&gt;You can browse my code &lt;a href=&#34;https://github.com/jurgen-kluft/AoC_2017&#34;&gt;here at github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
