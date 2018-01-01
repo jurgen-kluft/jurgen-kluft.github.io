@@ -1,1 +1,55 @@
+==================================================================
+https://keybase.io/jur93n
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://jurgen-kluft.github.io
+  * I am jur93n (https://keybase.io/jur93n) on keybase.
+  * I have a public key ASDuAzjMZvs3eVWf4Dzni8vUtdSpkXbZ4XpcRWXzS-peUgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101888d2ba2d64f447d2d5193ad473dbe55d33fbf0e2f06ecbadcacc2919ef963ff0a",
+      "host": "keybase.io",
+      "kid": "0120ee0338cc66fb3779559fe03ce78bcbd4b5d4a99176d9e17a5c4565f34bea5e520a",
+      "uid": "0646aada55d8fd29048b5c7e7bfa4319",
+      "username": "jur93n"
+    },
+    "merkle_root": {
+      "ctime": 1514850063,
+      "hash": "d12c190d1ced24310be21f79b5a47bfb770cc2f4944647f39fbe76505dc6af4ab3da3db1666a16bed44659a3a02c2b71540fc2253c9cd57216758ee30ef212ae",
+      "hash_meta": "5278b6ea81583f7c7f8d7b5254977b76cec8446ad7e75c2bddc962584b0f8921",
+      "seqno": 1875866
+    },
+    "service": {
+      "hostname": "jurgen-kluft.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514850188,
+  "expire_in": 504576000,
+  "prev": "3c456d44987b50f25cacfef9e3cfb9c494d9793c4fe2e99197956586525d69fb",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7gM4zGb7N3lVn+A854vL1LXUqZF22eF6XEVl80vqXlIKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxODg4ZDJiYTJkNjRmNDQ3ZDJkNTE5M2FkNDczZGJlNTVkMzNmYmYwZTJmMDZlY2JhZGNhY2MyOTE5ZWY5NjNmZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWUwMzM4Y2M2NmZiMzc3OTU1OWZlMDNjZTc4YmNiZDRiNWQ0YTk5MTc2ZDllMTdhNWM0NTY1ZjM0YmVhNWU1MjBhIiwidWlkIjoiMDY0NmFhZGE1NWQ4ZmQyOTA0OGI1YzdlN2JmYTQzMTkiLCJ1c2VybmFtZSI6Imp1cjkzbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNDg1MDA2MywiaGFzaCI6ImQxMmMxOTBkMWNlZDI0MzEwYmUyMWY3OWI1YTQ3YmZiNzcwY2MyZjQ5NDQ2NDdmMzlmYmU3NjUwNWRjNmFmNGFiM2RhM2RiMTY2NmExNmJlZDQ0NjU5YTNhMDJjMmI3MTU0MGZjMjI1M2M5Y2Q1NzIxNjc1OGVlMzBlZjIxMmFlIiwiaGFzaF9tZXRhIjoiNTI3OGI2ZWE4MTU4M2Y3YzdmOGQ3YjUyNTQ5NzdiNzZjZWM4NDQ2YWQ3ZTc1YzJiZGRjOTYyNTg0YjBmODkyMSIsInNlcW5vIjoxODc1ODY2fSwic2VydmljZSI6eyJob3N0bmFtZSI6Imp1cmdlbi1rbHVmdC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDg1MDE4OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzYzQ1NmQ0NDk4N2I1MGYyNWNhY2ZlZjllM2NmYjljNDk0ZDk3OTNjNGZlMmU5OTE5Nzk1NjU4NjUyNWQ2OWZiIiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHQOyVKNRB1uZ6r6k5ofbw+nZEh8TUKQXFF5veGRsk7Xmb2LxPAFchDMQ4cckgqFrcZxInNSN4z39G9gXOFnrAGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCjs+OyWhJPSX4kJVPAF9X0lzUIJc9v4b9bl8o12+ad/aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jur93n
+
+==================================================================
