@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Codes on Personal Blog</title>
+    <title>Codes on Personal Information</title>
     <link>http://jurgen-kluft.github.io/code/</link>
-    <description>Recent content in Codes on Personal Blog</description>
+    <description>Recent content in Codes on Personal Information</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
     <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
-    <copyright>(c) 2016 Jurgen</copyright>
+    <copyright>Jurgen</copyright>
     
 	<atom:link href="http://jurgen-kluft.github.io/code/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,9 +19,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/</guid>
-      <description>Experienced Game/Embedded Software Engineer Resume
+      <description>Experienced Game/Embedded Software Engineer Motivatie (NL)
+Motivation (EN)
+Resume (EN)
  Jurgen KluftTechnical Director
- Shanghai, China&amp;nbsp; jurgen dot kluft at gmail.com  /jurgen_kluft /jurgenkluft /jurgen_kluft /jurgen-kluft /jurgen I am a Technical Director currently working at a large game out-sourcing company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam).</description>
+ Shanghai,China&amp;nbsp; jurgen dot kluft at gmail.com /jurgen_kluft /jurgenkluft /jurgen_kluft /jurgen-kluft /jurgenI am a Senior Software Engineer currently working at a large game out-sourcing company inShanghai (China).</description>
     </item>
     
   </channel>

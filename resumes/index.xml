@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resumes on Personal Blog</title>
+    <title>Resumes on Personal Information</title>
     <link>http://jurgen-kluft.github.io/resumes/</link>
-    <description>Recent content in Resumes on Personal Blog</description>
+    <description>Recent content in Resumes on Personal Information</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
     <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
-    <copyright>(c) 2016 Jurgen</copyright>
+    <copyright>Jurgen</copyright>
     <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jurgen-kluft.github.io/resumes/index.xml" rel="self" type="application/rss+xml" />
@@ -16,36 +16,33 @@
     
     <item>
       <title></title>
-      <link>http://jurgen-kluft.github.io/resumes/resume-en/</link>
+      <link>http://jurgen-kluft.github.io/resumes/motivation-en/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/resumes/resume-en/</guid>
-      <description>Motivation Looking for challenges especially in tools and technology. Optimizing, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis. Network communications is also an interest of mine and i have experience in this field. Additional interest and experience is with cryptography (encryption/decryption), compression, (virtual) memory allocators, SSE/AVX. Distributed data processing/conversion is also an area where i have experience and interest in.
-Motivatie Ben op zoek naar uitdagingen vooral in tools en technologie.</description>
+      <guid>http://jurgen-kluft.github.io/resumes/motivation-en/</guid>
+      <description>Motivation Looking for challenges especially in tools and technology. Optimizing, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis.
+Have a lot of experience with C and C++ as well as C# and Golang. In the past i have also written a lot of MC68000 assembly language and afterwards also PIC and Zilog micro controller assembly. The recent years it has been SSE/AVX and NEON for ARM.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://jurgen-kluft.github.io/resumes/resume-cn/</link>
-      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <link>http://jurgen-kluft.github.io/resumes/motivation-nl/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/resumes/resume-cn/</guid>
-      <description>技术总监, 高级软件工程师 自我评价 经验丰富、注重工作成果，拥有20年工作经验，即能适应专业成熟环境又能适应新启动环境的软件工程师。 具有将项目需求转化成高成本效益、安全和有效的方案，并能兼顾产品的可扩展性、投资回报率和耐用性。 能对智能解决方案、系统和应用程序进行创新，以推动系统基础架构和产品的重大改进。 拥有10年管理经验的领队人和技术管理人员，不仅精于推动系统体系结构相关的决策，且善于带领一个项目从初始阶段直至完成。 具有全面的软件开发实践操作经验，包括从构建、编程、重构到代码审查、分析/优化和调试，并对这些工作充满激情。
-10多年在中国工作的经历使我拥有丰富的带领和管理由中国和其他国家技术人员组成的技术团队的经验。 扎根中国10多年，懂得中国国情和文化，深度了解如何在中国的大环境下不断挖掘一个团队的潜力、提高效力和质量。
-具有丰富的培训和指导初级、高级及领对程序员的经验，使他们通过学会正确的编程方法和了解最佳实践来提高工作效率和质量。
-个人信息 性别: 男
-中文名字：珂悦涵
-国籍: 荷兰
-出生年月: 1971年6月19日
-居住地：中国上海 /持有中国永久居住证
-家庭住址：上海市伊犁南路34弄3号1506室
-手机: 18621753701 / 18616793279
-住宅电话: 021-24281061
-邮箱地址：email me
-主要技术领域 语言/程序:
- C/C++, C# (.NET 2.0 to 4.6) Golang LUA Assembler for MC680x0, DSP560x0, Zilog and PIC micro controllers Python  系统:
- Windows XP/NT v4.0/7/8 PSP/PS2/PS3/PS4 Xbox-360 / Xbox-One Nintendo DS/WII  加密:
- SHA-1, SHA-3 (Keccak) Skein Merkle-Tree Block-Chain  网络:</description>
+      <guid>http://jurgen-kluft.github.io/resumes/motivation-nl/</guid>
+      <description>Motivatie Ben op zoek naar uitdagingen vooral in tools en technologie. Optimalisaties, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analyses.
+Heb erg veel ervarning in C/C++, maar ook in C# en Golang. Verder heb ik vroeger heel veel assembly geschreven in MC68000 met daarna hier en daar assembly voor PIC en Zilog micro controllers. De laatse jaren is het meer SSE/AVX en NEON voor ARM geworden.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jurgen-kluft.github.io/resumes/resume-en/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/resumes/resume-en/</guid>
+      <description>Resume TECHNICAL DIRECTOR, SOFTWARE ENGINEERING I am a Senior Software Engineer working at a major game company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Technology. Apart from C++/C# I have special interest in high performance and embedded systems as well as P2P technologies.
+PERSONAL INFO Gender: Male
+Date of Birth: June 19, 1971</description>
     </item>
     
   </channel>
