@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Blog</title>
@@ -9,8 +9,29 @@
     <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
     <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
     <copyright>(c) 2016 Jurgen</copyright>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jurgen-kluft.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jurgen-kluft.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Difference</title>
+      <link>http://jurgen-kluft.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jurgen-kluft.github.io/resumes/resume-en/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/resumes/resume-en/</guid>
+      <description>Motivation Looking for challenges especially in tools and technology. Optimizing, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis. Network communications is also an interest of mine and i have experience in this field. Additional interest and experience is with cryptography (encryption/decryption), compression, (virtual) memory allocators, SSE/AVX. Distributed data processing/conversion is also an area where i have experience and interest in.
+Motivatie Ben op zoek naar uitdagingen vooral in tools en technologie.</description>
+    </item>
     
     <item>
       <title>Advent of Code using Golang</title>
@@ -18,108 +39,8 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/2017/12/20/advent-of-code-using-golang/</guid>
-      <description>&lt;p&gt;Finished the first 20 days of &lt;a href=&#34;http://www.adventofcode.com&#34;&gt;Advent-of-Code&lt;/a&gt; using Go-lang.&lt;/p&gt;
-
-&lt;p&gt;You can browse my code &lt;a href=&#34;https://github.com/jurgen-kluft/AoC_2017&#34;&gt;here at github&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jurgen-kluft.github.io/page/about/</link>
-      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/page/about/</guid>
-      <description>&lt;div class=&#34;container&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;col-lg-offset-2 col-lg-8&#34;&gt;
-      &lt;div class=&#34;panel panel-default&#34;&gt;
-        &lt;div class=&#34;panel-body&#34;&gt;
-          &lt;div class=&#34;row&#34;&gt;
-            &lt;div class=&#34;col-lg-offset-2 col-lg-8&#34;&gt;
-              &lt;div class=&#34;row&#34;&gt;
-                &lt;div class=&#34;col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6&#34;&gt;
-                    &lt;img class=&#34;img-square img-responsive&#34;
-                    src=&#34;http://jurgen-kluft.github.io/images/profile_pic.jpeg&#34;&gt;
-                &lt;/div&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&#34;row&#34;&gt;
-            &lt;div class=&#34;col-lg-12&#34;&gt;
-              &lt;div class=&#34;row&#34;&gt;
-                &lt;div class=&#34;text-center col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6&#34;&gt;
-                  &lt;div class=&#34;&#34;&gt;
-                    &lt;h2&gt; &lt;span itemprop=&#34;name&#34;&gt;Jurgen Kluft&lt;/span&gt;&lt;/h2&gt;
-                    &lt;p itemprop=&#34;jobTitle&#34;&gt;Technical Director&lt;/p&gt;
-                    &lt;p&gt;
-                      &lt;i class=&#34;fa fa-map-marker&#34;&gt;&lt;/i&gt; &lt;span itemprop=&#34;addressRegion&#34;&gt;Shanghai, China&lt;/span&gt;
-                    &lt;/p&gt;
-                    &lt;p itemprop=&#34;email&#34;&gt; &lt;i class=&#34;fa fa-envelope&#34;&gt;&amp;nbsp;&lt;/i&gt; &lt;a href=&#34;mailto:jurgen.kluft@gmail.com&#34;&gt;jurgen dot kluft at gmail.com&lt;/a&gt; &lt;/p&gt;
-                  &lt;/div&gt;
-                &lt;/div&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-              &lt;div class=&#34;col-lg-12 centered-text&#34;&gt;
-                I am a Technical Director currently working at a large game out-sourcing company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam).
-                I am passionate about Software Engineering and Technology. Apart from &lt;a href=&#34;https://en.wikipedia.org/wiki/Video_game_development&#34;&gt;Game-Development&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_(programming_language)&#34;&gt;C#&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_(programming_language)&#34;&gt;Go&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/Rust_(programming_language)&#34;&gt;Rust&lt;/a&gt; I have special interest in &lt;a href=&#34;https://en.wikipedia.org/wiki/Peer-to-peer&#34;&gt;p2p-technologies&lt;/a&gt;, &lt;a href=&#34;http://www.agner.org/optimize/optimizing_cpp.pdf&#34;&gt;high performance C++&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Embedded_system&#34;&gt;embedded systems&lt;/a&gt;.
-                &lt;br&gt;&lt;/br&gt;
-                &lt;ul&gt;
-                &lt;li&gt;Results-driven engineer offering 20 years extensive experience within both professional and startup environments.&lt;/li&gt;
-                &lt;li&gt;Able to transform project needs into cost-effective, secure and efficient approaches known for scalability, ROI and durability.&lt;/li&gt;
-                &lt;li&gt;Innovator of smart solutions, systems and applications fueling improvements to the infrastructure and product.&lt;/li&gt;
-                &lt;li&gt;Proven leader and technical manager with more than 10 years’ experience; driving system architecture decisions and leading projects from initial phase through the release process.&lt;/li&gt;
-                &lt;li&gt;Passionate and hands-on in many aspects of software engineering, from architecture, implementation and refactoring to code-reviews, profiling/optimizing and debugging.&lt;/li&gt;
-                &lt;li&gt;Solid experience and knowledge on how to train and mentor junior, senior and lead programmers in programming methodologies and best practices to improve efficiency and quality.&lt;/li&gt;
-                &lt;li&gt;10 years’ experience in China working with and leading technical teams incorporating team members from China and other various countries.&lt;/li&gt;
-                &lt;li&gt;A decade of working as a western in a Chinese culture with a solid understanding how to work within such a culture to unlock potential, efficiency and quality.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;panel-footer&#34;&gt;
-          &lt;div class=&#34;row&#34;&gt;
-            &lt;div id=&#34;social-links&#34; class=&#34;col-lg-offset-0 col-lg-12&#34;&gt;
-                &lt;div class=&#34;row&#34;&gt;
-                  &lt;div class=&#34;col-xs-3 col-sm-3 col-md-2 col-lg-2 social-btn-holder&#34;&gt;
-                        &lt;a title=&#34;Twitter&#34; class=&#34;btn btn-social btn-block btn-twitter&#34;
-                            target=&#34;_BLANK&#34; href=&#34;http://twitter.com/jurgen_kluft&#34;&gt;
-                            &lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; /jurgen_kluft
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;col-xs-3 col-sm-3 col-md-2 col-lg-2 social-btn-holder&#34;&gt;
-                        &lt;a title=&#34;LinkedIn&#34; class=&#34;btn btn-social btn-block btn-linkedin&#34;
-                            target=&#34;_BLANK&#34; href=&#34;http://www.linkedin.com/in/jurgenkluft&#34;&gt;
-                            &lt;i class=&#34;fa fa-linkedin&#34;&gt;&lt;/i&gt; /jurgenkluft
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;col-xs-3 col-sm-3 col-md-2 col-lg-2 social-btn-holder&#34;&gt;
-                        &lt;a title=&#34;GitHub&#34; class=&#34;btn btn-social btn-block btn-github&#34;
-                            target=&#34;_BLANK&#34; href=&#34;http://bitbucket.com/jurgen_kluft&#34;&gt;
-                            &lt;i class=&#34;fa fa-bitbucket&#34;&gt;&lt;/i&gt; /jurgen_kluft
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;col-xs-3 col-sm-3 col-md-2 col-lg-2 social-btn-holder&#34;&gt;
-                        &lt;a title=&#34;GitHub&#34; class=&#34;btn btn-social btn-block btn-github&#34;
-                            target=&#34;_BLANK&#34; href=&#34;http://github.com/jurgen-kluft&#34;&gt;
-                            &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; /jurgen-kluft
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;col-xs-3 col-sm-3 col-md-2 col-lg-2 social-btn-holder&#34;&gt;
-                        &lt;a title=&#34;StackOverflow&#34; class=&#34;btn btn-social btn-block btn-stackoverflow&#34;
-                            target=&#34;_BLANK&#34; href=&#34;http://stackexchange.com/users/7579085/jurgen&#34;&gt;
-                            &lt;i class=&#34;fa fa-stack-overflow&#34;&gt;&lt;/i&gt; /jurgen
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Finished the first 20 days of Advent-of-Code using Go-lang.
+You can browse my code here at github</description>
     </item>
     
     <item>
@@ -128,387 +49,22 @@
       <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/resumes/resume-cn/</guid>
-      <description>
-
-&lt;h3 id=&#34;技术总监-高级软件工程师:c6d61757840b74c7e40514562fe1f30b&#34;&gt;技术总监, 高级软件工程师&lt;/h3&gt;
-
-&lt;p&gt;自我评价
-经验丰富、注重工作成果，拥有20年工作经验，即能适应专业成熟环境又能适应新启动环境的软件工程师。
-具有将项目需求转化成高成本效益、安全和有效的方案，并能兼顾产品的可扩展性、投资回报率和耐用性。
-能对智能解决方案、系统和应用程序进行创新，以推动系统基础架构和产品的重大改进。
-拥有10年管理经验的领队人和技术管理人员，不仅精于推动系统体系结构相关的决策，且善于带领一个项目从初始阶段直至完成。
-具有全面的软件开发实践操作经验，包括从构建、编程、重构到代码审查、分析/优化和调试，并对这些工作充满激情。&lt;/p&gt;
-
-&lt;p&gt;10多年在中国工作的经历使我拥有丰富的带领和管理由中国和其他国家技术人员组成的技术团队的经验。
-扎根中国10多年，懂得中国国情和文化，深度了解如何在中国的大环境下不断挖掘一个团队的潜力、提高效力和质量。&lt;/p&gt;
-
-&lt;p&gt;具有丰富的培训和指导初级、高级及领对程序员的经验，使他们通过学会正确的编程方法和了解最佳实践来提高工作效率和质量。&lt;/p&gt;
-
-&lt;h2 id=&#34;个人信息:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;个人信息&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;性别: 男&lt;br /&gt;
-中文名字：珂悦涵&lt;br /&gt;
-国籍: 荷兰&lt;br /&gt;
-出生年月: 1971年6月19日&lt;br /&gt;
-居住地：中国上海 /持有中国永久居住证&lt;br /&gt;
-家庭住址：上海市伊犁南路34弄3号1506室&lt;br /&gt;
-手机: 18621753701 / 18616793279&lt;br /&gt;
-住宅电话: 021-24281061&lt;br /&gt;
-邮箱地址：&lt;a href=&#34;mailto:jurgen.kluft@gmail.com&#34;&gt;email me&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;主要技术领域:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;主要技术领域&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;语言/程序:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;C/C++, C# (.NET 2.0 to 4.6)&lt;/li&gt;
-&lt;li&gt;Golang&lt;/li&gt;
-&lt;li&gt;LUA&lt;/li&gt;
-&lt;li&gt;Assembler for  MC680x0, DSP560x0, Zilog and PIC micro controllers&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;系统:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows XP/NT v4.0/7/8&lt;/li&gt;
-&lt;li&gt;PSP/PS2/PS3/PS4&lt;/li&gt;
-&lt;li&gt;Xbox-360 / Xbox-One&lt;/li&gt;
-&lt;li&gt;Nintendo DS/WII&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;加密&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SHA-1, SHA-3 (Keccak)&lt;/li&gt;
-&lt;li&gt;Skein&lt;/li&gt;
-&lt;li&gt;Merkle-Tree&lt;/li&gt;
-&lt;li&gt;Block-Chain&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;网络:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;TCP/IP, UDP&lt;/li&gt;
-&lt;li&gt;Protocols; packet/messaging custom protocols, pub-sub, req-rep&lt;/li&gt;
-&lt;li&gt;P2P; DHT (Chord, Kademlia, Symphony), BitTorrent protocol, ZeroMQ.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;数据:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;工作经验:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;&lt;em&gt;工作经验&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;h3 id=&#34;上海市维塔士电脑软件有限公司-中国-上海:c6d61757840b74c7e40514562fe1f30b&#34;&gt;上海市维塔士电脑软件有限公司 – 中国，上海&lt;/h3&gt;
-
-&lt;h4 id=&#34;技术总监-2005年至今:c6d61757840b74c7e40514562fe1f30b&#34;&gt;技术总监， 2005年至今&lt;/h4&gt;
-
-&lt;p&gt;运用C/C++, C#语言及相关工具来开发、维护、支持用于各类项目、各类控制台和手机平台的工具和系统。&lt;/p&gt;
-
-&lt;p&gt;分析系统测试和调试代码，创建测试用于查找、隔离和纠正问题，创建和使用查找性能和内存问题的工具，为优化和降低内存使用情况创建解决方案。&lt;/p&gt;
-
-&lt;p&gt;管理一个由8到30工程师组成的技术团队。&lt;/p&gt;
-
-&lt;p&gt;成果:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;重新构筑了多个推动改善生产率、效率、反应能力和可维护性的系统。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;通过开发代码、系统设计和测试为很多技术问题找到了解决方案，并使用的工具和脚本部署更新。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;领导、构建和参与了一个数据构建工作流、多个跨平台工具、以及各类内存和分析组建的设计、测试和开发。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;开发了模块化、便携式、线程安全且超高性能的基础和应用程序的基础架构库。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;培训和指导初级、高级以及首席程序员编程的方法和最佳实践。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;开发完成了在不同项目中均能高效使用的自动化和数据转换工具组。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;开发完成了一个大型二进制数据管理系统，该系统对mercurial-hg (一个分布式版本控制系统) 进行了加强， 使其效率、可用性和可扩展性提高了十倍。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;制定标准确保每个项目遵循连续集成流程以对代码和数据的更改进行确认。之后又进一步优化为应用程序版本的自动测试、报告生成及发布。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;引进并致力于将Scrum应用到公司的的项目管理，即在项目中以敏捷方法（agile methods）取代了适用于小型项目的 “瀑布心态”。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;参与并改进了公司对软件工程师相关各级职位的面试和招聘工作，对面试和招聘来自中国及国外的员工具有丰富的经验。协助人事部门起草招聘职位的要求和职责。通过对历史聘用数据的分析来提高招聘的效率。帮助人事部起草了用来测试应聘人员技术水平的测试试卷。&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;guerrilla-games-荷兰-阿姆斯特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;GUERRILLA GAMES –荷兰，阿姆斯特丹&lt;/h3&gt;
-
-&lt;h4 id=&#34;高级-首席软件程序工程师-2000年-至-2005年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;高级/首席软件程序工程师,  2000年 至 2005年&lt;/h4&gt;
-
-&lt;p&gt;带领开发团队完成编程任务包括对产品和工具的功能增强、维护和支持。项目编程任务,包括增强功能、维护和支持的产品和工具。 设计创建软件系统,进行详细分析及处理复杂编程以满足项目要求。&lt;/p&gt;
-
-&lt;p&gt;成果:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;带领开发团队致力于解决流程自动化、数据转换和效果增强等各种任务。以简洁和自动化的解决方案替换了容易出错的手动流程。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;设计和研发了可配置的、可扩展的支持性工具，用于支持数据转换框架。&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;设计和研发了一项高级粒子模拟系统，该系统实现了重复使用内存，以避免频繁的内存分配并减少内存占用。&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ict-group-信息和通讯技术集团-荷兰-鹿特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;ICT GROUP 信息和通讯技术集团– 荷兰，鹿特丹&lt;/h3&gt;
-
-&lt;h4 id=&#34;软件工程师-1998年3月至2000年12月:c6d61757840b74c7e40514562fe1f30b&#34;&gt;软件工程师，1998年3月至2000年12月&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;同8名专业软件工程师组成团共同研发了一个由硬件和软件构成的公共汽车交通系统。接受了公司提供的有关管理、沟通和科技方面的培训。&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;lostboys-interactive-荷兰-阿姆斯特丹:c6d61757840b74c7e40514562fe1f30b&#34;&gt;LOSTBOYS INTERACTIVE – 荷兰，阿姆斯特丹&lt;/h3&gt;
-
-&lt;h4 id=&#34;多媒体软件程序工程师-1996年至1998年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;多媒体软件程序工程师, 1996年至1998年&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;负责与多媒体相关的2D和3D应用程序的编程工作。善于优化代码性能及将用于系统测试和调试的各种支持系统进行标准化&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pannekeet工业机械公司-荷兰-阿尔克马尔:c6d61757840b74c7e40514562fe1f30b&#34;&gt;PANNEKEET工业机械公司– 荷兰，阿尔克马尔&lt;/h3&gt;
-
-&lt;h4 id=&#34;plc-软件工程师-1995-年至1996年:c6d61757840b74c7e40514562fe1f30b&#34;&gt;PLC 软件工程师, 1995 年至1996年&lt;/h4&gt;
-
-&lt;p&gt;•   为机器的自动化软件提供支持，使用传感器和执行器来控制机器的流程和操作。 创新性地将FSM方法使用到该工作的软件开发过程中，通过添加调试信息和完整的状态及转化信息，极大地改进了调试性能，为工程师乃至是用户提供了便利。&lt;/p&gt;
-
-&lt;h2 id=&#34;教育和资格证书:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;教育和资格证书&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;荷兰阿尔克马尔应用科学大学&lt;br /&gt;
-电子工程专业本科，1990年至 1994&lt;br /&gt;
-测量与系统控制专业&lt;/p&gt;
-
-&lt;p&gt;资质证书：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SCRUM Alliance, SCRUM Master, 2008&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;近期培训:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;C++11 Programming Concepts&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;C++ Programming Concepts, Design and Implementation&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Workshop in Object-Oriented Analysis and Design&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;部分参与项目列表:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;部分参与项目列表&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;UNANNOUNCED (PS4) (2015-Now)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;UNANNOUNCED (PS4, Xbox One, PC, Unreal Engine 3 &amp;amp; 4) (2013-Now)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Fable Anniversary” (360, Unreal Engine 3) (2012-2013)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“xcore foundation libraries and cross-platform tools” (2011-2012)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Generator Rex: Agent of Province” (PS3, Xbox 360, Wii, 3DS, NDS) (2010-2011)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“MonsterJam: Path of Destruction” (PS3, 360, Wii, PSP, NDS) (2009-2010)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Motorstorm: Artic Edge” PS2 (Sony) (2008-2009)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Pimp My Ride” PS2 (Activision) (2007-2008)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“SpeedRacer” NDS (Warner Bros) (2007)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;NDS game “Asphalt: Urban GT 2” (2006)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PSP game “StreetRiders” (2005)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS3 game “Killzone 2” (2004 – 2005)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS2 game “Killzone” (2001 – 2004)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS2 game “Knights” (1999 - 2001)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Automated bus system (1998-1999)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Star child 3D (1997 – 1998) (Programmer II)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Media Presentation Software (1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Educational Software (Shockwave) (1996-1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;The Lost Ride (CDI) (1996) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;语言能力:c6d61757840b74c7e40514562fe1f30b&#34;&gt;&lt;strong&gt;语言能力&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;荷兰语&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;英语&lt;/li&gt;
-&lt;li&gt;汉语&lt;/li&gt;
-&lt;li&gt;德语&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jurgen-kluft.github.io/resumes/resume-en/</link>
-      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/resumes/resume-en/</guid>
-      <description>
-
-&lt;h2 id=&#34;technical-director-software-engineering:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;TECHNICAL DIRECTOR, SOFTWARE ENGINEERING&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Results-driven engineer offering 20 years extensive experience within both professional and startup environments.&lt;/li&gt;
-&lt;li&gt;Able to transform project needs into cost-effective, secure and efficient approaches known for scalability, ROI and durability.&lt;/li&gt;
-&lt;li&gt;Innovator of smart solutions, systems and applications fueling improvements to the infrastructure and product.&lt;/li&gt;
-&lt;li&gt;Proven leader and technical manager with more than 10 years’ experience; driving system architecture decisions and leading projects from initial phase through the release process.&lt;/li&gt;
-&lt;li&gt;Passionate and hands-on in many aspects of software engineering, from architecture, implementation and refactoring to code-reviews, profiling/optimizing and debugging.&lt;/li&gt;
-&lt;li&gt;Solid experience and knowledge on how to train and mentor junior, senior and lead programmers in programming methodologies and best practices to improve efficiency and quality.&lt;/li&gt;
-&lt;li&gt;10 years’ experience in China working with and leading technical teams incorporating team members from China and other various countries.&lt;/li&gt;
-&lt;li&gt;A decade of working as a western in a Chinese culture with a solid understanding how to work within such a culture to unlock potential, efficiency and quality.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;personal-info:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;&lt;em&gt;PERSONAL INFO&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Gender: Male&lt;br /&gt;
-Date of Birth: June 19, 1971&lt;br /&gt;
-Nationality: Dutch&lt;br /&gt;
-Residence:  Shanghai, China (China Permanent Residence Card holder)&lt;br /&gt;
-Address: 3-1506, 34 South Yili Road, Shanghai, China&lt;br /&gt;
-Mobile: 18616793279&lt;br /&gt;
-Email: &lt;a href=&#34;mailto:jurgen.kluft@gmail.com&#34;&gt;email me&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;technology-summary:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;&lt;em&gt;TECHNOLOGY SUMMARY&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Languages/Programming&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;C/C++, C# (.NET 2.0 to 4.6)&lt;/li&gt;
-&lt;li&gt;Golang&lt;/li&gt;
-&lt;li&gt;LUA&lt;/li&gt;
-&lt;li&gt;Assembler for  MC680x0, DSP560x0, Zilog and PIC micro controllers&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Systems&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows XP/NT v4.0/7/8&lt;/li&gt;
-&lt;li&gt;PSP/PS2/PS3/PS4&lt;/li&gt;
-&lt;li&gt;Xbox-360/Xbox-One&lt;/li&gt;
-&lt;li&gt;Nintendo DS/WII&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Cryptography&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SHA-1, SHA-3 (Keccak)&lt;/li&gt;
-&lt;li&gt;Skein&lt;/li&gt;
-&lt;li&gt;Merkle-Tree&lt;/li&gt;
-&lt;li&gt;Block-Chain&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Network&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;TCP/IP, UDP&lt;/li&gt;
-&lt;li&gt;Protocols; packet/messaging custom protocols, pub-sub, req-rep&lt;/li&gt;
-&lt;li&gt;P2P; DHT (Chord, Kademlia, Symphony), BitTorrent protocol, ZeroMQ.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Databases&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;professional-experience:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;&lt;em&gt;PROFESSIONAL EXPERIENCE&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;h3 id=&#34;shanghai-virtuos-software-co-ltd-shanghai-china-http-www-virtuosgames-com:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;http://www.virtuosgames.com/&#34;&gt;&lt;strong&gt;Shanghai Virtuos Software Co., Ltd. – Shanghai China&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;technical-director-software-https-en-wikipedia-org-wiki-technical-director-2005-to-present:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Technical_director&#34;&gt;Technical Director (Software)&lt;/a&gt;, 2005 to Present&lt;/h4&gt;
-
-&lt;p&gt;Develop, maintain and support tools and systems for the infrastructure of projects, console and mobile platforms using C/C++, C# and related tools. Analyze code for system testing and debugging; create tests to find, isolate and rectify issues; create and use tools to find performance and memory isues and create solutions to optimize and reduce memory usage. Managing a team of 8 to 30 engineers.&lt;/p&gt;
-
-&lt;p&gt;Accomplishments:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Reengineered multiple systems that fueled improvements to productivity, efficiency, responsiveness and maintainability. Developed code, system design and tests for many solutions, used tools and scripts to rollout updates.&lt;/li&gt;
-&lt;li&gt;Led, architected and participated in the design, testing and deployment of a data building workflow, cross-platform tools, memory and profiling components.&lt;/li&gt;
-&lt;li&gt;Developed modular, portable, thread-safe and ultra-high performance foundation and application infrastructure libraries.&lt;/li&gt;
-&lt;li&gt;Trained and mentored junior, seniors and lead programmers in programming methodologies and best practices.&lt;/li&gt;
-&lt;li&gt;Delivered an automation and data conversion tool set, enabling the company to be more efficient in handling this specific aspect from project to project.&lt;/li&gt;
-&lt;li&gt;Developed a &amp;lsquo;large binary data&amp;rsquo; management system enhancing &lt;a href=&#34;https://en.wikipedia.org/wiki/Mercurial&#34;&gt;Mercurial&lt;/a&gt;-&lt;a href=&#34;https://www.mercurial-scm.org/&#34;&gt;Hg&lt;/a&gt; (a distributed version control system) that increased efficiency, availability and scalability tenfold.&lt;/li&gt;
-&lt;li&gt;Made it a standard for every project to have a Continues Integration process to validate code and data changes. This later was advanced with automated testing, reporting and publishing of application builds.&lt;/li&gt;
-&lt;li&gt;Introduced and helped integrating &lt;a href=&#34;https://en.wikipedia.org/wiki/Scrum_(software_development&#34;&gt;SCRUM&lt;/a&gt;) into the company to manage medium to large projects using agile methods replacing the &amp;lsquo;waterfall&amp;rsquo; mentality that only suited small projects.&lt;/li&gt;
-&lt;li&gt;Handled and improved the recruitment and interviewing of software engineers from China and overseas. Supported HR with writing job descriptions for hiring open and new positions. Data analysis of the history of hired candidates to improve the efficiency and focus of our hiring efforts. Wrote C++ and C# test papers for HR to use to test candidates.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;guerrilla-games-amsterdam-nl-http-www-guerrilla-games-com:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;http://www.guerrilla-games.com/&#34;&gt;&lt;strong&gt;GUERRILLA GAMES &amp;ndash; Amsterdam, NL&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;senior-lead-programmer-2000-to-2005:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;Senior/Lead Programmer, 2000 to 2005&lt;/h4&gt;
-
-&lt;p&gt;Led project programming tasks including enhancements, maintenance and support for products and tools. Engineered software systems, handling detailed analysis and intricate programming to meet project requirements.&lt;/p&gt;
-
-&lt;p&gt;Accomplishments:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Led engineering efforts that dealt with process automation, data conversion and functionality enhancements. Replaced, error-prone manual processes with elegant, automated solutions.&lt;/li&gt;
-&lt;li&gt;Developed and implemented supportive tools that are configurable and extensible to support their data conversion framework.&lt;/li&gt;
-&lt;li&gt;Developed and implemented an advanced particle simulation system with an objective of reusing memory to avoid frequent memory allocations and reducing memory footprint.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ict-group-rotterdam-nl-http-ict-eu-nl:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;http://ict.eu/nl/&#34;&gt;&lt;strong&gt;ICT GROUP &amp;ndash; Rotterdam, NL&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;programmer-iii-march-1998-to-december-2000:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;Programmer III, March 1998 to December 2000&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Worked in a small team of 8 professional software engineers developing a public transport bus system as a combination of software and hardware. Using &lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Modeling_Language&#34;&gt;UML&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Rational_Software_Modeler&#34;&gt;Rational Rose&lt;/a&gt; to design new or modify existing system designs, followed by implementation or refactoring complemented with test suits and documentation.&lt;/li&gt;
-&lt;li&gt;Received training in communication and assertiveness, software engineering and management.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;lostboys-games-amsterdam-nl-https-en-wikipedia-org-wiki-lost-boys-games:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lost_Boys_Games&#34;&gt;&lt;strong&gt;LOSTBOYS GAMES &amp;ndash; Amsterdam, NL&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;media-software-programmer-i-programmer-ii-1996-to-1998:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;Media Software Programmer I / Programmer II, 1996 to 1998&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Progressed through promotions, culminating in responsibility for 2d and 3d-based application programming focused on multi-media. Became adept in optimizing code for performance as well as standardizing libraries for enabling system testing and debugging.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pannekeet-machine-tech-alkmaar-nl-https-jasa-nl-nl:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;a href=&#34;https://jasa.nl/nl&#34;&gt;&lt;strong&gt;PANNEKEET MACHINE TECH &amp;ndash; Alkmaar, NL&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;industrial-machines-company-plc-programmer-1995-to-1996:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;Industrial Machines Company, PLC Programmer, 1995 to 1996&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Worked as an individual on supporting machinery with &lt;a href=&#34;https://en.wikipedia.org/wiki/Programmable_logic_controller&#34;&gt;PLC&lt;/a&gt; software to automate machines using sensors and actuators to control their flow and operation. Introduced the use of finite state machines (&lt;a href=&#34;https://en.wikipedia.org/wiki/Finite-state_machine&#34;&gt;FSM&lt;/a&gt;) and hierarchical &lt;a href=&#34;https://en.wikipedia.org/wiki/Finite-state_machine&#34;&gt;FSM&lt;/a&gt; to the process of developing software where before there was no structured approach, by adding additional debugging information to state-machines as well as solid documentation on the states and their transitions ‘debugging’ was greatly improved for engineers but even for customers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;education-credentials:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;Education &amp;amp; Credentials&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;HTS &amp;ndash; Alkmaar, NL&lt;br /&gt;
-BS in Electrical Engineering, 1990 to 1994&lt;br /&gt;
-Graduated in Measurement and Control Systems&lt;/p&gt;
-
-&lt;p&gt;Certifications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SCRUM Alliance, SCRUM Master, 2008&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recent Seminars:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;C++11 Programming Concepts&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;C++ Programming Concepts, Design and Implementation&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Workshop in Object-Oriented Analysis and Design&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;projects:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;UNANNOUNCED (PS4) (2015-Now)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;UNANNOUNCED (PS4, Xbox One, PC, Unreal Engine 3 &amp;amp; 4) (2013-Now)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Fable Anniversary” (360, Unreal Engine 3) (2012-2013)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“xcore foundation libraries and cross-platform tools” (2011-2012)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Generator Rex: Agent of Province” (PS3, Xbox 360, Wii, 3DS, NDS) (2010-2011)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“MonsterJam: Path of Destruction” (PS3, 360, Wii, PSP, NDS) (2009-2010)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Motorstorm: Artic Edge” PS2 (Sony) (2008-2009)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“Pimp My Ride” PS2 (Activision) (2007-2008)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;“SpeedRacer” NDS (Warner Bros) (2007)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;NDS game “Asphalt: Urban GT 2” (2006)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PSP game “StreetRiders” (2005)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS3 game “Killzone 2” (2004 – 2005)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS2 game “Killzone” (2001 – 2004)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;PS2 game “Knights” (1999 - 2001)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Automated bus system (1998-1999)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Star child 3D (1997 – 1998) (Programmer II)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Media Presentation Software (1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Educational Software (Shockwave) (1996-1997) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;The Lost Ride (CDI) (1996) (Programmer I)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;language-skills:8ecf1b6ee153f5f9713e1277d3ae6be8&#34;&gt;&lt;strong&gt;Language Skills&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dutch (Native)&lt;/li&gt;
-&lt;li&gt;English&lt;/li&gt;
-&lt;li&gt;Chinese (Intermediate)&lt;/li&gt;
-&lt;li&gt;German&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>技术总监, 高级软件工程师 自我评价 经验丰富、注重工作成果，拥有20年工作经验，即能适应专业成熟环境又能适应新启动环境的软件工程师。 具有将项目需求转化成高成本效益、安全和有效的方案，并能兼顾产品的可扩展性、投资回报率和耐用性。 能对智能解决方案、系统和应用程序进行创新，以推动系统基础架构和产品的重大改进。 拥有10年管理经验的领队人和技术管理人员，不仅精于推动系统体系结构相关的决策，且善于带领一个项目从初始阶段直至完成。 具有全面的软件开发实践操作经验，包括从构建、编程、重构到代码审查、分析/优化和调试，并对这些工作充满激情。
+10多年在中国工作的经历使我拥有丰富的带领和管理由中国和其他国家技术人员组成的技术团队的经验。 扎根中国10多年，懂得中国国情和文化，深度了解如何在中国的大环境下不断挖掘一个团队的潜力、提高效力和质量。
+具有丰富的培训和指导初级、高级及领对程序员的经验，使他们通过学会正确的编程方法和了解最佳实践来提高工作效率和质量。
+个人信息 性别: 男
+中文名字：珂悦涵
+国籍: 荷兰
+出生年月: 1971年6月19日
+居住地：中国上海 /持有中国永久居住证
+家庭住址：上海市伊犁南路34弄3号1506室
+手机: 18621753701 / 18616793279
+住宅电话: 021-24281061
+邮箱地址：email me
+主要技术领域 语言/程序:
+ C/C++, C# (.NET 2.0 to 4.6) Golang LUA Assembler for MC680x0, DSP560x0, Zilog and PIC micro controllers Python  系统:
+ Windows XP/NT v4.0/7/8 PSP/PS2/PS3/PS4 Xbox-360 / Xbox-One Nintendo DS/WII  加密:
+ SHA-1, SHA-3 (Keccak) Skein Merkle-Tree Block-Chain  网络:</description>
     </item>
     
     <item>
@@ -517,10 +73,8 @@ Graduated in Measurement and Control Systems&lt;/p&gt;
       <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/2016/01/06/advent-of-code-using-golang/</guid>
-      <description>&lt;p&gt;Finished the first 13 days of &lt;a href=&#34;http://www.adventofcode.com&#34;&gt;Advent-of-Code&lt;/a&gt; using Go-lang.&lt;/p&gt;
-
-&lt;p&gt;You can browse my code &lt;a href=&#34;https://github.com/jurgen-kluft/AoC&#34;&gt;here at github&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Finished the first 13 days of Advent-of-Code using Go-lang.
+You can browse my code here at github</description>
     </item>
     
     <item>
@@ -529,12 +83,9 @@ Graduated in Measurement and Control Systems&lt;/p&gt;
       <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/2016/01/06/started-my-personal-blog/</guid>
-      <description>&lt;p&gt;Today i installed &lt;code&gt;hugo&lt;/code&gt; and configured a theme and the basic pages.&lt;/p&gt;
-
-&lt;p&gt;Didn&amp;rsquo;t realize that using a static-site-generator could be so easy.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt; is great, just one executable doing all the magic!&lt;/p&gt;
-</description>
+      <description>Today i installed hugo and configured a theme and the basic pages.
+Didn&amp;rsquo;t realize that using a static-site-generator could be so easy.
+hugo is great, just one executable doing all the magic!</description>
     </item>
     
     <item>
@@ -543,48 +94,18 @@ Graduated in Measurement and Control Systems&lt;/p&gt;
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/page/disclaimer/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-xs-12 col-sm-12 col-md-12 col-lg-12&#34;&gt;
-    &lt;h3&gt;Disclaimer&lt;/h3&gt;
-
-    &lt;p&gt;
-      The views expressed on this website, be they in text, pictures, sound, video or any other form are my own,
-      not those of any individual or entity (including my current or previous employer)
-      associated with me directly or indirectly.
-    &lt;/p&gt;
-    &lt;p&gt;
-      In no event will I or any individual or entity associated with me, be liable for any incidental, indirect, consequential or special damages of any kind,
-      or any damages whatsoever, including, without limitation, those resulting from loss of profit, loss of contracts,
-      goodwill, data, information, income, anticipated savings or business relationships, whether or not advised of the
-      possibility of such damage, arising out of or in connection with the use of this website or any linked websites.
-    &lt;/p&gt;
-
-    &lt;p&gt;
-      As many personal views and opinions are detailed in this blog it is worth noting that opinions of people change over time
-      and this is no less true for me. Anything I might say in a particular post has no bearing on how I might react or respond to a
-      similar situation were it to occur again in the future. While I try and make this blog as accurate to my
-      life as possible some things are deliberately left out or censored and as such my postings are not to be
-      considered in any way a viable method for judging my character or suitableness for projects, tasks or employment
-      and doing so will be considered an infringement of my rights.Where possible any infringement of my rights will be
-      persued using applicable points of law.
-    &lt;/p&gt;
-
-    &lt;small&gt;NOTE:Some information in this website might be copied from other websites.
-      If you see something is your copyright or something should not belong here, please feel free to contact me. I will remove necessary parts.&lt;/small&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Disclaimer&amp;lt;p&amp;gt;The views expressed on this website, be they in text, pictures, sound, video or any other form are my own,not those of any individual or entity (including my current or previous employer)associated with me directly or indirectly.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In no event will I or any individual or entity associated with me, be liable for any incidental, indirect, consequential or special damages of any kind,or any damages whatsoever, including, without limitation, those resulting from loss of profit, loss of contracts,goodwill, data, information, income, anticipated savings or business relationships, whether or not advised of thepossibility of such damage, arising out of or in connection with the use of this website or any linked websites.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://jurgen-kluft.github.io</link>
+      <link>http://jurgen-kluft.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io</guid>
-      <description>&lt;p&gt;XCode is a set of basic modular C++ libraries to assist in the rapid development of
-C++ applications.&lt;/p&gt;
-</description>
+      <guid>http://jurgen-kluft.github.io/</guid>
+      <description>Experienced Game/Embedded Software Engineer Resume
+ Jurgen KluftTechnical Director
+ Shanghai, China&amp;nbsp; jurgen dot kluft at gmail.com  /jurgen_kluft /jurgenkluft /jurgen_kluft /jurgen-kluft /jurgen I am a Technical Director currently working at a large game out-sourcing company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam).</description>
     </item>
     
   </channel>
