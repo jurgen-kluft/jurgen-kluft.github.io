@@ -48,7 +48,7 @@
     },
     "datePublished": "2020-02-11",
     "description": "",
-    "wordCount":  1418 
+    "wordCount":  1574 
   }
 </script>
 
@@ -232,9 +232,10 @@ Electrical Engineering, 1986 to 1990</p>
 <p>Porting L.A. Noire from Xbox 360 to Nintendo Switch</p>
 <h4 id="virtuos-games">Virtuos Games</h4>
 <ul>
-<li>Wrote runtime component to save pro le and memory allocation events with stack-trace and scope, frame number and timing information from multiple threads</li>
-<li>Wrote a tool to convert the pro le information to a format that could be read by FramePro</li>
-<li>Wrote a GPU memory allocator based on best- t algorithm Integrated UMBRA into the data building pipeline and runtime</li>
+<li>Wrote runtime component to save profile and memory allocation events with stack-trace and scope, frame number and timing information from multiple threads</li>
+<li>Wrote a tool to convert the profile information to a format that could be read by FramePro</li>
+<li>Wrote a GPU memory allocator based on best-fit algorithm</li>
+<li>Integrated UMBRA into the data building pipeline and runtime</li>
 <li>Part of the realtime MPG streams where converted to use Bink to increase CPU performance</li>
 <li>Refactored a lot of global scope object instances to &lsquo;create on initialization&rsquo;</li>
 <li>Made the decision and changes to have all streaming data uncompressed to increase CPU performance</li>
@@ -248,25 +249,26 @@ Electrical Engineering, 1986 to 1990</p>
 <li>Managing a team of 10+ engineers</li>
 <li>Extending the data building tools to support Xbox One Porting the runtime to Xbox One</li>
 <li>GPU Profiling and optimizations</li>
-<li>Constant Bufier usage optimization</li>
+<li>Constant Buffer usage optimization</li>
 </ul>
 <h3 id="heavy-rain-ps3-to-ps4-port-proprietary-engine-and-tools">Heavy Rain (PS3 to PS4 port, proprietary engine and tools)</h3>
 <p>Porting Heavy Rain PS3 to PS4</p>
 <h4 id="virtuos-games-2">Virtuos Games</h4>
 <ul>
-<li>Replaced custom memory allocator with DLMalloc</li>
+<li>Replaced custom memory allocator with DLMalloc and refactored the whole code-base to use a standard memory allocation API. This allowed us to swap from a final allocator to a debug allocator very easily during development.</li>
 <li>Wrote the PS4 render engine and made many render passes multi- threaded</li>
 <li>Working with Artists and Graphics Engineer to integrate &lsquo;cubemap based environment lighting&rsquo;</li>
 <li>Integrated Bink to provide us with movie frames in an asynchronous manner</li>
 <li>Wrote a lock-less JOB system used for multi-threading animation and render-passes</li>
-<li>Many CPU optimizations</li>
+<li>Did a lot of CPU optimizations to get the game at 30+ FPS</li>
 </ul>
 <h3 id="batman-return-to-arkham-ps4-xbox-one-pc-unreal-engine-4">Batman: Return to Arkham (PS4, Xbox One, PC, Unreal Engine 4)</h3>
 <p>A challenging port by merging engines, UE3 and UE4 and moving to a PBR pipeline</p>
 <h4 id="virtuos-games-3">Virtuos Games</h4>
 <ul>
-<li>Setup many details on how to merge UE3 core engine into UE4 Extended Mercurial (Hg) to be able to handle large amount of binary data</li>
-<li>Designed an Artist PBR work ow to automate and ease the validation of PBR assets</li>
+<li>Setup many details on how to merge UE3 core engine into UE4</li>
+<li>Extended Mercurial (Hg) to be able to handle large amount of binary data</li>
+<li>Designed an Artist PBR workflow to automate and ease the validation of PBR assets</li>
 </ul>
 <h3 id="fable-anniversary-xbox-360-unreal-engine-3">Fable Anniversary (XBox 360, Unreal Engine 3)</h3>
 <p>A port of an XBox game to Xbox 360 using Unreal Engine 3 merged with the old game engine</p>
@@ -274,9 +276,13 @@ Electrical Engineering, 1986 to 1990</p>
 <ul>
 <li>UE3</li>
 <li>WWise</li>
-<li>Merging UE3 and proprietary</li>
-<li>UE3 package analysis and re-distribution of objects to math story line FaceFX</li>
-<li>Audio/Voice to Face FX animation Localization compression Scaleform</li>
+<li>Merging UE3 and proprietary game engine</li>
+<li>Designed the interface layer between proprietary engine and UE3</li>
+<li>UE3 package analysis and re-distribution of objects to match story line</li>
+<li>FaceFX</li>
+<li>Wrote a batch convertor for Audio/Voice to Face FX animation for all supported languages</li>
+<li>Localization compression</li>
+<li>Scaleform</li>
 </ul>
 <h3 id="generator-rex-agent-of-providence-ps3-360-wii">Generator Rex: Agent of Providence (PS3, 360, Wii)</h3>
 <p>Full development of Generator Rex using a custom engine and tools</p>
@@ -291,7 +297,9 @@ Electrical Engineering, 1986 to 1990</p>
 <p>Full development writing a custom cross platform engine and tools</p>
 <h4 id="virtuos-games-6">Virtuos Games</h4>
 <ul>
-<li>Managing a team of 20+ engineers Integrated Bullet Physics</li>
+<li>Managing a team of 20+ engineers</li>
+<li>Integrated Bullet Physics</li>
+<li>Terrain collision was done in a custom &lsquo;grid&rsquo; manner to speed up raycasts</li>
 <li>Full Particle System and Editor</li>
 <li>WII render engine and material system</li>
 </ul>
@@ -301,23 +309,28 @@ Electrical Engineering, 1986 to 1990</p>
 <ul>
 <li>VU0/VU1 skinning job</li>
 <li>Adjust data-building pipeline to also build PS2 graphic data PS2 render-engine</li>
-<li>Perforce</li>
+<li>Did a lot of implementation and refactoring of the PS2 render engine</li>
 <li>Automated performance testing</li>
 <li>CI/CD using Team City</li>
+<li>Perforce</li>
 </ul>
 <h3 id="pimp-my-ride-street-racing-ps2-nds">Pimp My Ride: Street Racing (PS2, NDS)</h3>
 <p>Full development of a Pimp My Ride game for PS2 as well as Nintendo DS</p>
 <h4 id="virtuos-games-8">Virtuos Games</h4>
 <ul>
 <li>Re-used and extended the C# based data description and build pipeline.</li>
+<li>Support for the data-pipeline to be incremental, caching converted assets and using a dependency tree</li>
 <li>Big-file re-ordering based on file-order-access logged by the game</li>
+<li>Designed and assisted with the implementation of a UI authoring pipeline using Microsoft Blend</li>
 </ul>
 <h3 id="speedracer-nds">SpeedRacer (NDS)</h3>
 <p>Full development, game engine, AI, Tools, UI framework and networking</p>
 <h4 id="virtuos-games-9">Virtuos Games</h4>
 <ul>
-<li>Render Engine (60 FPS)</li>
+<li>Designed and Implemented the (Render) Engine to run at 60 FPS</li>
+<li>Designed the technical aspects of the 3D track structure and how cars would drive/navigate</li>
 <li>Written a full C# based data description and build pipeline</li>
+<li>Worked with VFX artist to make all of the VFX just scaling effects instead of actual particle simulation</li>
 <li>Big-file and index-file generation</li>
 </ul>
 <h3 id="asphalt-2-for-nintendo-ds">Asphalt 2 for Nintendo DS</h3>
@@ -333,7 +346,7 @@ Electrical Engineering, 1986 to 1990</p>
 <ul>
 <li>CodeWarrior, C/C++</li>
 <li>CI/CD, CruiseControl</li>
-<li>PSP Render Engine</li>
+<li>Wrote the complete Render Engine for PSP</li>
 <li>Extended data-building tools to write out PSP graphic and texture formats</li>
 <li>Optimized the skinned mesh parts (bone constraint) using minimum spanning trees</li>
 <li>Optimizations, C/C++</li>

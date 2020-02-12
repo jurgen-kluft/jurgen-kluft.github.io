@@ -9,7 +9,7 @@
     <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
     <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
     <copyright>Jurgen</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jurgen-kluft.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,12 +25,35 @@
     
     <item>
       <title></title>
+      <link>http://jurgen-kluft.github.io/resumes/coverletter-pubg-en/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/resumes/coverletter-pubg-en/</guid>
+      <description>Jurgen Kluft Senior Software Engineer
+Shanghai, 12/02/2020
+As an enthousiast of technology and software development I was thrilled to hear that apart from the succesfull game PUBG you are also working on a new game and technology. I am confident I can help with working and improving the technology in many areas, from tools to runtime. I have worked on many engines, from UE3 to UE4 as well as many proprietary engines.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jurgen-kluft.github.io/resumes/coverletter-sioux-en/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <author>jurgen.kluft@gmail.com (Jurgen)</author>
+      <guid>http://jurgen-kluft.github.io/resumes/coverletter-sioux-en/</guid>
+      <description>Jurgen Kluft
+Senior Software Engineer
+Shanghai, 12/02/2020
+As an enthousiast of technology and software development i was thrilled to here that apart from the succesfull game PUBG you are also working on a new game and technology. I am confident I can help with working and improving the technology in many areas, from tools to runtime. I have worked on many engines, from UE3 to UE4 as well as many proprietary engines.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://jurgen-kluft.github.io/resumes/motivation-en/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <author>jurgen.kluft@gmail.com (Jurgen)</author>
       <guid>http://jurgen-kluft.github.io/resumes/motivation-en/</guid>
       <description>Motivation Looking for challenges especially in tools and technology. Optimizing, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis.
-Have a lot of experience with C and C++ as well as C# and Golang. In the past i have also written a lot of MC68000 assembly language and afterwards also PIC and Zilog micro controller assembly. The recent years it has been SSE/AVX and NEON for ARM.</description>
+Have a lot of experience with C and C++ as well as C# and Golang. In the past I have also written a lot of MC68000 assembly language and afterwards also PIC and Zilog micro controller assembly. The recent years it has been SSE/AVX and NEON for ARM.</description>
     </item>
     
     <item>
