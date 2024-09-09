@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Experienced Game/Embedded Software Engineer</title>
+      <link>http://localhost:1313/resumes/resume/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resumes/resume/</guid>
+      <description>&lt;p&gt;Technical Director&lt;br&gt;&#xA;Shanghai, China&lt;br&gt;&#xA;jurgen dot kluft at gmail.com&lt;/p&gt;&#xA;&lt;p&gt;I am a Senior Software Engineer currently working at a large game out-sourcing company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Software Engineering and Technology. Apart from &lt;a href=&#34;https://en.wikipedia.org/wiki/Video_game_development&#34;&gt;Game-Development&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_(programming_language)&#34;&gt;C#&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_(programming_language)&#34;&gt;Go&lt;/a&gt; I have special interest in &lt;a href=&#34;http://www.agner.org/optimize/optimizing_cpp.pdf&#34;&gt;high performance C and C++&lt;/a&gt; as well as &lt;a href=&#34;https://en.wikipedia.org/wiki/Embedded_system&#34;&gt;embedded systems&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Motivatie (Nederlands)</title>
       <link>http://localhost:1313/resumes/motivation-nl/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
@@ -21,6 +28,13 @@
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resumes/motivation-en/</guid>
       <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;&#xA;&lt;p&gt;Looking for challenges especially in tools and technology. Optimizing memory and performance, writing debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis.&lt;/p&gt;&#xA;&lt;p&gt;Have a lot of experience with C and C++ as well as C# and Golang. In the past I have also written a lot of MC68000 assembly language as well as PIC and Zilog micro controller assembly. The recent years it has been SSE/AVX and NEON for ARM.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project Experience - Virtuos Games</title>
+      <link>http://localhost:1313/resumes/virtuos-games-en/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resumes/virtuos-games-en/</guid>
+      <description>&lt;p&gt;Developing; Texture Upscale Pipeline&#xA;CODA (UE4) Co-development for Xbox One/Xbox Series, PS4/PS5, Nintendo Switch (2020-2022)&#xA;Unannounced Xbox/PS4 game (Proprietary Engine) Remaster (Xbox One, PS4) 2018-2019&#xA;Evaluating; Popcorn FX middleware 2018&#xA;L.A. Noire (Xbox 360 to Nintendo Switch) 2016-2017&#xA;Assassin’s Creed The Ezio Collection (PS4, XBox One) 2016-2016&#xA;Heavy Rain (PS3 to PS4 port, proprietary engine and tools) 2015-2016&#xA;Batman: Return to Arkham (PS4, Xbox One, PC, Unreal Engine 4) 2014-2016&#xA;Fable Anniversary (360, Unreal Engine 3) 2012-2013&#xA;MonsterJam: Path of Destruction (PS3, 360, Wii, PSP, NDS) 2010-2011&#xA;Motorstorm: Arctic Edge (PS2) 2009-2010&#xA;PMRII (PS2, NDS) 2008 - 2009&#xA;SpeedRacer (NDS) 2007 - 2008&#xA;Asphalt 2 (NDS) 2006-2007&#xA;StreetRiders (PSP) 2005-2006&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume (English)</title>
