@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on </title>
+    <link>http://localhost:1313/tags/english/</link>
+    <description>Recent content in English on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume (English)</title>
+      <link>http://localhost:1313/resumes/resume-en/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resumes/resume-en/</guid>
+      <description>&lt;h2 id=&#34;technical-director-software-engineering&#34;&gt;TECHNICAL DIRECTOR, SOFTWARE ENGINEERING&lt;/h2&gt;&#xA;&lt;p&gt;I am a Senior Software Engineer working at a major game company in &lt;em&gt;Shanghai&lt;/em&gt; (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Technology. Apart from C++/C# I have special interest in high performance and embedded systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;_personal-info_&#34;&gt;&lt;strong&gt;&lt;em&gt;PERSONAL INFO&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Gender: Male&lt;br&gt;&#xA;Date of Birth: June 19, 1971&lt;br&gt;&#xA;Nationality: Dutch&lt;br&gt;&#xA;Residence:  Shanghai, China (China Permanent Residence Card holder)&lt;br&gt;&#xA;Address: 3-1506, 34 South Yili Road, Shanghai, China&lt;br&gt;&#xA;Mobile: 186xxxxxxxx&lt;br&gt;&#xA;Website: &lt;a href=&#34;http://jurgen-kluft.github.io/&#34;&gt;website&lt;/a&gt;&lt;br&gt;&#xA;Email: jurgen dot kluft at gmail dot com&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

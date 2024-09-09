@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on </title>
+    <link>http://localhost:1313/categories/motivation/</link>
+    <description>Recent content in Motivation on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motivatie (Nederlands)</title>
+      <link>http://localhost:1313/resumes/motivation-nl/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resumes/motivation-nl/</guid>
+      <description>&lt;h1 id=&#34;motivatie&#34;&gt;Motivatie&lt;/h1&gt;&#xA;&lt;p&gt;Ben op zoek naar uitdagingen vooral in tools en technologie. Optimalisaties, debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analyses.&lt;/p&gt;&#xA;&lt;p&gt;Heb erg veel ervarning in C/C++, maar ook in C# en Golang. Verder heb ik vroeger heel veel assembly geschreven in MC68000 met daarna hier en daar assembly voor PIC en Zilog micro controllers. De laatse jaren is het meer SSE/AVX en NEON voor ARM geworden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motivation (English)</title>
+      <link>http://localhost:1313/resumes/motivation-en/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resumes/motivation-en/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;&#xA;&lt;p&gt;Looking for challenges especially in tools and technology. Optimizing memory and performance, writing debug tools, data processing, workflow tools, (game engine) systems, automated testing, data analysis.&lt;/p&gt;&#xA;&lt;p&gt;Have a lot of experience with C and C++ as well as C# and Golang. In the past I have also written a lot of MC68000 assembly language as well as PIC and Zilog micro controller assembly. The recent years it has been SSE/AVX and NEON for ARM.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

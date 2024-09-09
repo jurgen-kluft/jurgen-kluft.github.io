@@ -1,36 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Personal Information</title>
-    <link>http://jurgen-kluft.github.io/page/</link>
-    <description>Recent content in Pages on Personal Information</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>jurgen.kluft@gmail.com (Jurgen)</managingEditor>
-    <webMaster>jurgen.kluft@gmail.com (Jurgen)</webMaster>
-    <copyright>Jurgen</copyright>
-    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jurgen-kluft.github.io/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Our Difference</title>
-      <link>http://jurgen-kluft.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/page/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jurgen-kluft.github.io/page/disclaimer/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <author>jurgen.kluft@gmail.com (Jurgen)</author>
-      <guid>http://jurgen-kluft.github.io/page/disclaimer/</guid>
-      <description>Disclaimer&amp;lt;p&amp;gt;The views expressed on this website, be they in text, pictures, sound, video or any other form are my own,not those of any individual or entity (including my current or previous employer)associated with me directly or indirectly.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In no event will I or any individual or entity associated with me, be liable for any incidental, indirect, consequential or special damages of any kind,or any damages whatsoever, including, without limitation, those resulting from loss of profit, loss of contracts,goodwill, data, information, income, anticipated savings or business relationships, whether or not advised of thepossibility of such damage, arising out of or in connection with the use of this website or any linked websites.</description>
-    </item>
-    
-  </channel>
-</rss>

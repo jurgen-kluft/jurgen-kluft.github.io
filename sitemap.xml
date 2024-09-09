@@ -1,117 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://jurgen-kluft.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/coverletter-pubg-en/</loc>
+    <loc>http://localhost:1313/resumes/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/english/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/experience/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/experience/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resumes/resume/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resumes/motivation-nl/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/motivation/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/motivation/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resumes/motivation-en/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nederlands/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resumes/virtuos-games-en/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resume/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/resume/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resumes/resume-en/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineering/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/elora-splitkb/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ergonomics/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ergonomics/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/keyboard/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/split-keyboard/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/coverletters/coverletter-pubg-en/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/coverletter-sioux-en/</loc>
+  </url><url>
+    <loc>http://localhost:1313/coverletters/coverletter-sioux-en/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/</loc>
+  </url><url>
+    <loc>http://localhost:1313/coverletters/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/css/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/diam-aliqua/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/fringilla/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/laoreet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/mollis-urna/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/syntax/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/themes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/themes/</loc>
   </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/motivation-en/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/motivation-nl/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/resumes/resume-en/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/2017/12/20/advent-of-code-using-golang/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/advent-of-code/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/blog/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/golang/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/post/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/2016/01/06/advent-of-code-using-golang/</loc>
-    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/github/</loc>
-    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/tags/hugo/</loc>
-    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/2016/01/06/started-my-personal-blog/</loc>
-    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/page/disclaimer/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/page/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/code/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jurgen-kluft.github.io/topics/</loc>
-  </url>
-  
 </urlset>
