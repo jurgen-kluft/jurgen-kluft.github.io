@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://jurgen-kluft.github.io/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jurgen-kluft.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/categories/experience/</link>
+      <link>http://jurgen-kluft.github.io/categories/experience/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/experience/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/experience/</guid>
       <description></description>
     </item>
     <item>
       <title>Motivation</title>
-      <link>http://localhost:1313/categories/motivation/</link>
+      <link>http://jurgen-kluft.github.io/categories/motivation/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/motivation/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/motivation/</guid>
       <description></description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/categories/resume/</link>
+      <link>http://jurgen-kluft.github.io/categories/resume/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/resume/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/resume/</guid>
       <description></description>
     </item>
     <item>
       <title>Software-Engineering</title>
-      <link>http://localhost:1313/categories/software-engineering/</link>
+      <link>http://jurgen-kluft.github.io/categories/software-engineering/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/software-engineering/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/software-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Ergonomics</title>
-      <link>http://localhost:1313/categories/ergonomics/</link>
+      <link>http://jurgen-kluft.github.io/categories/ergonomics/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/ergonomics/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/ergonomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyboard</title>
-      <link>http://localhost:1313/categories/keyboard/</link>
+      <link>http://jurgen-kluft.github.io/categories/keyboard/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/keyboard/</guid>
+      <guid>http://jurgen-kluft.github.io/categories/keyboard/</guid>
       <description></description>
     </item>
   </channel>

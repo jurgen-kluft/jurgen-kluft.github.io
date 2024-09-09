@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coverletters on </title>
-    <link>http://localhost:1313/coverletters/</link>
+    <link>http://jurgen-kluft.github.io/coverletters/</link>
     <description>Recent content in Coverletters on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/coverletters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jurgen-kluft.github.io/coverletters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/coverletters/coverletter-pubg-en/</link>
+      <link>http://jurgen-kluft.github.io/coverletters/coverletter-pubg-en/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/coverletters/coverletter-pubg-en/</guid>
+      <guid>http://jurgen-kluft.github.io/coverletters/coverletter-pubg-en/</guid>
       <description>&lt;p&gt;Jurgen Kluft&#xA;Senior Software Engineer&lt;/p&gt;&#xA;&lt;p&gt;Shanghai, 12/02/2020&lt;/p&gt;&#xA;&lt;p&gt;As an enthousiast of technology and software development I was thrilled to hear that apart from the succesfull game PUBG you are also working on a new game and technology. I am confident I can help with working and improving the technology in many areas, from tools to runtime. I have worked on many engines, from UE3 to UE4 as well as many proprietary engines.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/coverletters/coverletter-sioux-en/</link>
+      <link>http://jurgen-kluft.github.io/coverletters/coverletter-sioux-en/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/coverletters/coverletter-sioux-en/</guid>
+      <guid>http://jurgen-kluft.github.io/coverletters/coverletter-sioux-en/</guid>
       <description>&lt;p&gt;Jurgen Kluft&lt;br&gt;&#xA;Senior Software Engineer&lt;/p&gt;&#xA;&lt;p&gt;Shanghai, 12/02/2020&lt;/p&gt;&#xA;&lt;p&gt;As an enthousiast of technology and software development i was thrilled to here that apart from the succesfull game PUBG you are also working on a new game and technology. I am confident I can help with working and improving the technology in many areas, from tools to runtime. I have worked on many engines, from UE3 to UE4 as well as many proprietary engines.&lt;/p&gt;</description>
     </item>
   </channel>

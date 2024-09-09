@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyboard on </title>
-    <link>http://localhost:1313/categories/keyboard/</link>
+    <link>http://jurgen-kluft.github.io/categories/keyboard/</link>
     <description>Recent content in Keyboard on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jurgen-kluft.github.io/categories/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elora - Split Keyboard</title>
-      <link>http://localhost:1313/blog/elora-splitkb/</link>
+      <link>http://jurgen-kluft.github.io/blog/elora-splitkb/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/elora-splitkb/</guid>
+      <guid>http://jurgen-kluft.github.io/blog/elora-splitkb/</guid>
       <description>&lt;h2 id=&#34;splitkbcom---elora&#34;&gt;SplitKb.com - Elora&lt;/h2&gt;&#xA;&lt;p&gt;The Elora is a split keyboard with a unique layout and design. It is a 60% keyboard with a split design. The keyboard is designed to be ergonomic and comfortable to use. The Elora is a great keyboard for people who spend a lot of time typing and want a more comfortable typing experience to avoid wrist pain and other issues.&lt;/p&gt;&#xA;&lt;p&gt;Before the Elora I was using 2 other SplitKb keyboards, the Sweep and Kyria, both also great split keyboards. The Sweep is a 34 keys split keyboard with a 2 + 2 thumb cluster and the Kyria is a 50 keys split keyboard with a 7 + 7 keys thumb cluster. The Elora is a Kyria with an additional top number row.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on </title>
-    <link>http://localhost:1313/categories/experience/</link>
+    <link>http://jurgen-kluft.github.io/categories/experience/</link>
     <description>Recent content in Experience on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jurgen-kluft.github.io/categories/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experienced Game/Embedded Software Engineer</title>
-      <link>http://localhost:1313/resumes/resume/</link>
+      <link>http://jurgen-kluft.github.io/resumes/resume/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resumes/resume/</guid>
+      <guid>http://jurgen-kluft.github.io/resumes/resume/</guid>
       <description>&lt;p&gt;Technical Director&lt;br&gt;&#xA;Shanghai, China&lt;br&gt;&#xA;jurgen dot kluft at gmail.com&lt;/p&gt;&#xA;&lt;p&gt;I am a Senior Software Engineer currently working at a large game out-sourcing company in Shanghai (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Software Engineering and Technology. Apart from &lt;a href=&#34;https://en.wikipedia.org/wiki/Video_game_development&#34;&gt;Game-Development&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_(programming_language)&#34;&gt;C#&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_(programming_language)&#34;&gt;Go&lt;/a&gt; I have special interest in &lt;a href=&#34;http://www.agner.org/optimize/optimizing_cpp.pdf&#34;&gt;high performance C and C++&lt;/a&gt; as well as &lt;a href=&#34;https://en.wikipedia.org/wiki/Embedded_system&#34;&gt;embedded systems&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
